@@ -31,7 +31,7 @@ html p {
     vertical-align: top;
 }
 .col-6 {
-    width: 48.5%;
+    width: 45%;
 }
 .col-9 {
     width: 65%;
@@ -69,7 +69,7 @@ html p {
     margin-top: 20px; 
     background-image: url(../image/Group.png);
 }
-.peasonal-image {
+.personal-image {
     width: 100px;
     height: 100px;
 }
@@ -101,14 +101,14 @@ html p {
 .information-all, main > section, footer > section {
     padding: 0 35px;
 }
-.peasonal, item {
+.personal, item {
     display: inline-block;
 }
 .ensprience .item, .skill .item {
-    padding-left: 20px;
+    padding-left: 25px;
 }
 .item ul {
-    padding-left: 15px;
+    padding-left: 10px;
 }
 .lang {
     margin-top: -5px;
@@ -302,15 +302,15 @@ section .title.about-me::before {
     color: #022643;
     letter-spacing: 1.14px;
 }
-.peasonal-message {
+.personal-message {
     width: 60%;
     text-align: center;
     margin: 40px auto
 }
-.peasonal-message .name {
+.personal-message .name {
     margin: 10px 0;
 }
-.peasonal-message .contact {
+.personal-message .contact {
     margin: 40px 0 20px 0;
 }
 .icon-container {
